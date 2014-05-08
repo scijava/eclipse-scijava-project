@@ -1,0 +1,5 @@
+# Eclipse output #
+/bin/
+
+# Temporary files of vi #
+*.swp
