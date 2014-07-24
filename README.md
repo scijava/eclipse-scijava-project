@@ -11,5 +11,5 @@ default mode is to build the code incrementally.
 
 This project demonstrates how to add a custom builder to your project that other
 developers will inherit when checking out your project. The relevant change is
-in the commit labeled "Add the extra builder required by Eclipse's violating the
-Java specs".
+labeled ["Add the extra builder required by Eclipse's violating the Java
+specs"](https://github.com/scijava/eclipse-scijava-project/commit/a56c8314).
